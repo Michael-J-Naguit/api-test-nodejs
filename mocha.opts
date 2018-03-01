@@ -1,0 +1,4 @@
+--require ./config/setup.js
+--recursive
+--globals chai,should,server
+--timeout 30000
